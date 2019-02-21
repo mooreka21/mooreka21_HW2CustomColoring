@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mooreka21_hw2</string>
+    <string name="current_element">Current Element</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+</resources>
